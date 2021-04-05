@@ -11,10 +11,10 @@
 <li>Type the command for your own OS</li>
 </ol>
 
-To create a virtual environment
+<h4>To create a virtual environment</h4>
 Type: python3 - venv (virutal environment name)
 
-To activate a virtual environment
+<h4>To activate a virtual environment</h4>
 For Mac or Linux
 Type: source (virutual environment name)/bin/activate
 
